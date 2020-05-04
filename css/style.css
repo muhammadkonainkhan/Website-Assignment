@@ -163,6 +163,7 @@ h2 span {
 	transition: .3s ease-in-out;
 	opacity: 0;
 	
+	
 }
 figure {
 	width: 300px;
@@ -241,8 +242,40 @@ color: green;
 
 .navbar-nav li a{
 	color: #316DC3;
-	
+
 }
+
+/* .navbar-expand-lg{ */
+	/* background-color: rgba(251, 251, 251, 0.904); */
+	/* max-height: 340px; */
+	/* height: 5%; */
+	
+	/* position: fixed;
+	z-index: 100;
+	text-align: center;
+	 */
+	
+/* } */
+
+
+
+  
+ 
+/*  
+  {
+position: sticky;
+z-index: -1;
+
+} */ 
+
+/* 
+nav {
+	/* text-align: center; */
+	/* position: sticky!important;
+	
+	width: 100%;
+	z-index: -1;
+  } */ */
 
 /* .navbar-nav li :hover{
 
